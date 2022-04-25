@@ -8,6 +8,7 @@ export const App = () => {
       <h1>Hola mundo </h1>
       <h2> fecha  { new Date().toLocaleDateString()}</h2>
       <p>Escribimos algo facil </p>
+      <p>Actualizamos la web</p> 
 
 
     </Fragment>
